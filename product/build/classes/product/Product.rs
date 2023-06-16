@@ -1,0 +1,2 @@
+product.Product
+product.properties
